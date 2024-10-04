@@ -1,0 +1,9 @@
+Home Page:
+The home page is the central hub for the whole website giving a short description of the website and includes having links to each page as well as a logo and a copyright.
+TimeTabele Page:
+The Timetable page displays the time table for the programming foundation in their second semester. It includes links for each page as well as a home page button at the bottom of the page and a copyright at the bottom of the page.
+Discussion Page:
+The discussion page has a sort of message board for people to come together and have questions and answers for each other.
+About Page: The about us page displays information about the website and what the website is for. It includes links for the other website pages, a home button at the bottom of the page as well as a copyright at the bottom of the page.
+Share Resources:
+The share resources page displays a page in which you can upload documents for others.
